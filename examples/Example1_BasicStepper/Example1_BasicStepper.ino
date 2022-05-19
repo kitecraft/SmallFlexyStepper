@@ -17,7 +17,7 @@ const int MOTOR_PIN_4 = 8;
 //
 // create the stepper motor object
 //
-FlexyStepper stepper;
+SmallFlexyStepper stepper;
 
 
 
