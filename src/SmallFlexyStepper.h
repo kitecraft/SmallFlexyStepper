@@ -34,7 +34,7 @@
 #ifndef SmallFlexyStepper_h
 #define SmallFlexyStepper_h
 
-#include <arduino.h>
+#include <Arduino.h>
 #include <stdlib.h>
 
 
