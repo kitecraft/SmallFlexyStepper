@@ -1,7 +1,7 @@
 
 
 
-#include <FlexyStepper.h>
+#include <SmallFlexyStepper.h>
 
 
 //
